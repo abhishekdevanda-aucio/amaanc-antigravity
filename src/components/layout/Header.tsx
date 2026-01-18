@@ -53,7 +53,7 @@ export function Header() {
                             </SheetTrigger>
                             <SheetContent side="right">
                                 <div className="flex flex-col gap-6 mt-8">
-                                    <Link href="/" className="flex items-center gap-2" onClick={() => { }}>
+                                    <Link href="/" className="flex items-center gap-2">
                                         <span className="text-xl font-bold">Amaanc.</span>
                                     </Link>
                                     <nav className="flex flex-col gap-4">
